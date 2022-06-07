@@ -2,7 +2,7 @@
 - 👀 I have a great passion for Coding and Problem Solving.
 - 🌱 I’m currently learning Computer Vision with Python, Web Development Languages(HTML/CSS) and building web-apps only with Python using the Anvil.works Framework.
 - 💞️ I’m opened for all collaborations on python projects consisting of Computer Vision or building of web-apps(using Anvil).
-- 📫 To reach me just send an email to this address: robotcoder4@protonmail.com. And I will gladly and quickly respond.
+- 📫 To reach me just send an email to this address: robotcoder4@proton.me. And I will gladly and quickly respond.
 
 
 <!---
