@@ -1,7 +1,7 @@
 - I’m @ndonkoHenri. A Problem_Solver, OpenSource_Contributor and Python_Programmer!
 - I am currently learning Data Science, AppDev and Computer Vision.
-- My main aim is to use all the technologies I learnt to help solve real world problems. 
-- I’m opened for all collaborations. Just contact me from here.
+- My main aim is to use all the technologies I learn to solve problems (aka Problem Solving). 
+- I’m opened for all collaborations. Just [contact me](https://twitter.com/ndonkoHenri).
 
 **Here are some of my stats:**
 
@@ -16,6 +16,6 @@
 
 ![ndonkoHenri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndonkoHenri&theme=tokyonight&show_icons=true&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndonkoHenri)](https://github.com/ndonkoHenri/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndonkoHenri)](https://github.com/ndonkoHenri/github-readme-stats) -->
 
 
