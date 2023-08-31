@@ -1,7 +1,8 @@
 - I’m @ndonkoHenri. A Problem_Solver, OpenSource_Contributor and Python_Programmer!
 - I am currently learning Data Science, AppDev and Computer Vision.
-- My main aim is to use all the technologies I learn to solve problems (aka Problem Solving). 
-- I’m opened for all collaborations. Just [contact me](https://twitter.com/ndonkoHenri).
+- My main aim is to use all the technologies I learn to solve problems (aka Problem Solving).
+- On [my Medium Blog](https://ndonkohenri.medium.com/), you will find my articles. Don't forget to clap. :)
+- I am on Discord too! _Username="the_ethical_boy"_
 
 **Here are some of my stats:**
 
