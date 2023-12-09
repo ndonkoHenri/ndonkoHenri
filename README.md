@@ -1,8 +1,7 @@
-- I’m @ndonkoHenri. A Problem_Solver, OpenSource_Contributor and Python_Programmer!
-- I am currently learning Data Science, AppDev and Computer Vision.
-- My main aim is to use all the technologies I learn to solve problems (aka Problem Solving).
-- On [my Medium Blog](https://ndonkohenri.medium.com/), you will find my articles. Don't forget to clap. :)
-- I am on Discord too! _Username="the_ethical_boy"_
+- Hi! Hallo! Servus! I’m @ndonkoHenri 🙂 - a Problem solver and active Opensource Contributor. 
+- Part of the [Flet](https://github.com/flet-dev/flet) core developers/maintainers team.
+- I write articles on [Medium](https://ndonkohenri.medium.com/) and make videos on [Youtube](https://https://youtube.com/@ndonkoHenri). 
+- _DiscordUsername="the_ethical_boy"_
 
 **Here are some of my stats:**
 
