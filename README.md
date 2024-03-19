@@ -1,7 +1,8 @@
-- Hi! Hallo! Servus! I’m @ndonkoHenri 🙂 - a Problem solver and active Opensource Contributor. 
+- Hi! Hallo! Servus! I’m @ndonkoHenri 🙂
+- I actively contribute to Opensource and like solving problems... 
 - Part of the [Flet](https://github.com/flet-dev/flet) core developers/maintainers team.
-- I write articles on [Medium](https://ndonkohenri.medium.com/) and make videos on [Youtube](https://youtube.com/@ndonkoHenri). 
-- Discord Username = _"the_ethical_boy"_
+- I write articles on [Medium](https://ndonkohenri.medium.com/) and make videos on [Youtube](https://youtube.com/@ndonkoHenri). Checkout my accounts, enjoy the content, like, follow, subscribe!
+- Want to get in touch with me? My Discord username is _"the_ethical_boy"_
 
 **Here are some of my stats:**
 
