@@ -19,4 +19,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndonkoHenri)](https://github.com/ndonkoHenri/github-readme-stats) -->
 
+<!--START_SECTION:activity-->
+
 
