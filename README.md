@@ -1,6 +1,6 @@
 ### Hi! Hallo! Servus! Grüß Gott!
 
-- 🙂  I’m @ndonkoHenri
+- 🙂  I’m **Henri Ndonko** also known as **TheEthicalBoy** 👾
 - 🚀  Active OpenSource Contributor - Maintainer of [Flet](https://github.com/flet-dev/flet) 
 - 👨‍🏫  I write articles on [Medium](https://ndonkohenri.medium.com/) and make videos on [Youtube](https://youtube.com/@ndonkoHenri). Checkout my accounts, enjoy the content, like, follow, subscribe!
 
