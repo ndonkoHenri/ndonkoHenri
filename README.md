@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3407](https://github.com/flet-dev/flet/pull/3407) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#3406](https://github.com/flet-dev/flet/pull/3406) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#3405](https://github.com/flet-dev/flet/pull/3405#issuecomment-2142468133) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#92](https://github.com/flet-dev/serious-python/issues/92#issuecomment-2141760970) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-5. 🗣 Commented on [#2977](https://github.com/flet-dev/flet/issues/2977#issuecomment-2140969672) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#3405](https://github.com/flet-dev/flet/pull/3405#issuecomment-2143396768) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#3407](https://github.com/flet-dev/flet/pull/3407) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#3406](https://github.com/flet-dev/flet/pull/3406) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#3405](https://github.com/flet-dev/flet/pull/3405#issuecomment-2142468133) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#92](https://github.com/flet-dev/serious-python/issues/92#issuecomment-2141760970) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
 <!--END_SECTION:activity-->
