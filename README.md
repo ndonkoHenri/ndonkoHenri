@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/flet-dev/serious-python/issues/106#issuecomment-2296111001) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-2. 🗣 Commented on [#1](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/1#issuecomment-2296098044) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
-3. 🗣 Commented on [#3438](https://github.com/flet-dev/flet/issues/3438#issuecomment-2295342510) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#1074](https://github.com/flet-dev/flet/issues/1074#issuecomment-2295202587) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#1012](https://github.com/flet-dev/flet/issues/1012#issuecomment-2295200015) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#3834](https://github.com/flet-dev/flet/pull/3834#issuecomment-2299809423) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#106](https://github.com/flet-dev/serious-python/issues/106#issuecomment-2296111001) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 🗣 Commented on [#1](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/1#issuecomment-2296098044) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+4. 🗣 Commented on [#3438](https://github.com/flet-dev/flet/issues/3438#issuecomment-2295342510) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#1074](https://github.com/flet-dev/flet/issues/1074#issuecomment-2295202587) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
