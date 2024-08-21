@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3835](https://github.com/flet-dev/flet/issues/3835#issuecomment-2301381830) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#2568](https://github.com/flet-dev/flet/issues/2568#issuecomment-2301364844) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🔒 Closed issue [#2568](https://github.com/flet-dev/flet/issues/2568) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#3763](https://github.com/flet-dev/flet/issues/3763#issuecomment-2301285159) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#3837](https://github.com/flet-dev/flet/pull/3837) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#2493](https://github.com/flet-dev/flet/issues/2493#issuecomment-2301410686) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#3167](https://github.com/flet-dev/flet/issues/3167#issuecomment-2301406349) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#3167](https://github.com/flet-dev/flet/issues/3167) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#2453](https://github.com/flet-dev/flet/issues/2453#issuecomment-2301403738) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#2453](https://github.com/flet-dev/flet/issues/2453) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
