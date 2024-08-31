@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#328](https://github.com/flet-dev/website/pull/328) in [flet-dev/website](https://github.com/flet-dev/website)
-2. 🗣 Commented on [#2498](https://github.com/flet-dev/flet/issues/2498#issuecomment-2319184054) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🎉 Merged PR [#322](https://github.com/flet-dev/website/pull/322) in [flet-dev/website](https://github.com/flet-dev/website)
-4. 💪 Opened PR [#326](https://github.com/flet-dev/website/pull/326) in [flet-dev/website](https://github.com/flet-dev/website)
-5. 💪 Opened PR [#3887](https://github.com/flet-dev/flet/pull/3887) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/TextReaderWithFaceDistanceMeasure/pull/1) in [ndonkoHenri/TextReaderWithFaceDistanceMeasure](https://github.com/ndonkoHenri/TextReaderWithFaceDistanceMeasure)
+2. 🎉 Merged PR [#328](https://github.com/flet-dev/website/pull/328) in [flet-dev/website](https://github.com/flet-dev/website)
+3. 🗣 Commented on [#2498](https://github.com/flet-dev/flet/issues/2498#issuecomment-2319184054) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#322](https://github.com/flet-dev/website/pull/322) in [flet-dev/website](https://github.com/flet-dev/website)
+5. 💪 Opened PR [#326](https://github.com/flet-dev/website/pull/326) in [flet-dev/website](https://github.com/flet-dev/website)
 <!--END_SECTION:activity-->
