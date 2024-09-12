@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3969](https://github.com/flet-dev/flet/issues/3969#issuecomment-2346044004) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#3971](https://github.com/flet-dev/flet/issues/3971#issuecomment-2346008362) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#1395](https://github.com/fleaflet/flutter_map/issues/1395#issuecomment-2345998416) in [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map)
-4. 🗣 Commented on [#3962](https://github.com/flet-dev/flet/issues/3962#issuecomment-2342900921) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🔒 Closed issue [#3962](https://github.com/flet-dev/flet/issues/3962) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#3973](https://github.com/flet-dev/flet/issues/3973#issuecomment-2346801711) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. ❗ Opened issue [#3973](https://github.com/flet-dev/flet/issues/3973) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#163](https://github.com/flet-dev/examples/pull/163#issuecomment-2346781984) in [flet-dev/examples](https://github.com/flet-dev/examples)
+4. 🎉 Merged PR [#163](https://github.com/flet-dev/examples/pull/163) in [flet-dev/examples](https://github.com/flet-dev/examples)
+5. 🎉 Merged PR [#157](https://github.com/flet-dev/examples/pull/157) in [flet-dev/examples](https://github.com/flet-dev/examples)
 <!--END_SECTION:activity-->
