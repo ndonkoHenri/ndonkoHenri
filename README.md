@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3962](https://github.com/flet-dev/flet/issues/3962#issuecomment-2342900921) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#3962](https://github.com/flet-dev/flet/issues/3962) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🔒 Closed issue [#5](https://github.com/ndonkoHenri/test-flet-github-actions/issues/5) in [ndonkoHenri/test-flet-github-actions](https://github.com/ndonkoHenri/test-flet-github-actions)
-4. 🗣 Commented on [#5](https://github.com/ndonkoHenri/test-flet-github-actions/issues/5#issuecomment-2338806175) in [ndonkoHenri/test-flet-github-actions](https://github.com/ndonkoHenri/test-flet-github-actions)
-5. 🗣 Commented on [#3867](https://github.com/flet-dev/flet/issues/3867#issuecomment-2336771968) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#3969](https://github.com/flet-dev/flet/issues/3969#issuecomment-2346044004) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#3971](https://github.com/flet-dev/flet/issues/3971#issuecomment-2346008362) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#1395](https://github.com/fleaflet/flutter_map/issues/1395#issuecomment-2345998416) in [fleaflet/flutter_map](https://github.com/fleaflet/flutter_map)
+4. 🗣 Commented on [#3962](https://github.com/flet-dev/flet/issues/3962#issuecomment-2342900921) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#3962](https://github.com/flet-dev/flet/issues/3962) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
