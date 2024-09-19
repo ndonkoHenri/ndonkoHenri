@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385](https://github.com/openwebf/webf/issues/385#issuecomment-2355936473) in [openwebf/webf](https://github.com/openwebf/webf)
-2. ❗ Opened issue [#4004](https://github.com/flet-dev/flet/issues/4004) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ❗ Opened issue [#4003](https://github.com/flet-dev/flet/issues/4003) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#3995](https://github.com/flet-dev/flet/issues/3995#issuecomment-2354813694) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#3963](https://github.com/flet-dev/flet/issues/3963#issuecomment-2354166623) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🔒 Closed issue [#4012](https://github.com/flet-dev/flet/issues/4012) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#4012](https://github.com/flet-dev/flet/issues/4012#issuecomment-2359602632) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#4010](https://github.com/flet-dev/flet/issues/4010#issuecomment-2359596322) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#385](https://github.com/openwebf/webf/issues/385#issuecomment-2355936473) in [openwebf/webf](https://github.com/openwebf/webf)
+5. ❗ Opened issue [#4004](https://github.com/flet-dev/flet/issues/4004) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
