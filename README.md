@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4039](https://github.com/flet-dev/flet/pull/4039#issuecomment-2393617409) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#156077](https://github.com/flutter/flutter/issues/156077) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#156077](https://github.com/flutter/flutter/issues/156077#issuecomment-2388699776) in [flutter/flutter](https://github.com/flutter/flutter)
-4. ❗ Opened issue [#156077](https://github.com/flutter/flutter/issues/156077) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#4071](https://github.com/flet-dev/flet/issues/4071#issuecomment-2385411110) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#4087](https://github.com/flet-dev/flet/issues/4087#issuecomment-2394165736) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#4096](https://github.com/flet-dev/flet/pull/4096) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#4039](https://github.com/flet-dev/flet/pull/4039#issuecomment-2393617409) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#156077](https://github.com/flutter/flutter/issues/156077) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🗣 Commented on [#156077](https://github.com/flutter/flutter/issues/156077#issuecomment-2388699776) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
