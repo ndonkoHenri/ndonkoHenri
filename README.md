@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158329](https://github.com/flutter/flutter/issues/158329#issuecomment-2464338231) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🔒 Closed issue [#3761](https://github.com/flet-dev/flet/issues/3761) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#4292](https://github.com/flet-dev/flet/issues/4292#issuecomment-2463683162) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🔒 Closed issue [#4249](https://github.com/flet-dev/flet/issues/4249) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🔒 Closed issue [#4275](https://github.com/flet-dev/flet/issues/4275) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#9](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/9#issuecomment-2466038188) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+2. 💪 Opened PR [#4343](https://github.com/flet-dev/flet/pull/4343) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ❗ Opened issue [#4342](https://github.com/flet-dev/flet/issues/4342) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#158329](https://github.com/flutter/flutter/issues/158329#issuecomment-2464338231) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🔒 Closed issue [#3761](https://github.com/flet-dev/flet/issues/3761) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
