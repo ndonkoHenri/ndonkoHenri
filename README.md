@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/ndonkoHenri/Flet-Samples/issues/10) in [ndonkoHenri/Flet-Samples](https://github.com/ndonkoHenri/Flet-Samples)
-2. 🗣 Commented on [#4444](https://github.com/flet-dev/flet/issues/4444#issuecomment-2518344847) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#4476](https://github.com/flet-dev/flet/issues/4476#issuecomment-2517792087) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🔒 Closed issue [#1540](https://github.com/flet-dev/flet/issues/1540) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#1540](https://github.com/flet-dev/flet/issues/1540#issuecomment-2517377261) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#366](https://github.com/flet-dev/website/pull/366) in [flet-dev/website](https://github.com/flet-dev/website)
+2. 💪 Opened PR [#366](https://github.com/flet-dev/website/pull/366) in [flet-dev/website](https://github.com/flet-dev/website)
+3. 💪 Opened PR [#4500](https://github.com/flet-dev/flet/pull/4500) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#10](https://github.com/ndonkoHenri/Flet-Samples/issues/10) in [ndonkoHenri/Flet-Samples](https://github.com/ndonkoHenri/Flet-Samples)
+5. 🗣 Commented on [#4444](https://github.com/flet-dev/flet/issues/4444#issuecomment-2518344847) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
