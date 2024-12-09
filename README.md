@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/10) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
-2. 🗣 Commented on [#10](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/10#issuecomment-2527723597) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
-3. 🗣 Commented on [#4504](https://github.com/flet-dev/flet/issues/4504#issuecomment-2527719594) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🔒 Closed issue [#2969](https://github.com/flet-dev/flet/issues/2969) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#2969](https://github.com/flet-dev/flet/issues/2969#issuecomment-2526602642) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🔒 Closed issue [#9](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/9) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+2. 🗣 Commented on [#10](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/10#issuecomment-2527970933) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+3. 🔒 Closed issue [#10](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/10) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+4. 🗣 Commented on [#10](https://github.com/ndonkoHenri/flet-github-action-workflows/issues/10#issuecomment-2527723597) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+5. 🗣 Commented on [#4504](https://github.com/flet-dev/flet/issues/4504#issuecomment-2527719594) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
