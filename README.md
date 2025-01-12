@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4678](https://github.com/flet-dev/flet/issues/4678#issuecomment-2582692079) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#4653](https://github.com/flet-dev/flet/issues/4653) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#4673](https://github.com/flet-dev/flet/pull/4673) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#4666](https://github.com/flet-dev/flet/issues/4666#issuecomment-2579019036) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#4671](https://github.com/flet-dev/flet/pull/4671) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#4617](https://github.com/flet-dev/flet/issues/4617#issuecomment-2585789765) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#2](https://github.com/ndonkoHenri/Flet-Custom-Controls/issues/2#issuecomment-2585787797) in [ndonkoHenri/Flet-Custom-Controls](https://github.com/ndonkoHenri/Flet-Custom-Controls)
+3. 🔒 Closed issue [#2](https://github.com/ndonkoHenri/Flet-Custom-Controls/issues/2) in [ndonkoHenri/Flet-Custom-Controls](https://github.com/ndonkoHenri/Flet-Custom-Controls)
+4. 🗣 Commented on [#4548](https://github.com/flet-dev/flet/issues/4548#issuecomment-2585787069) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#4662](https://github.com/flet-dev/flet/issues/4662) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
