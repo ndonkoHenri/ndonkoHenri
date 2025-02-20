@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1445](https://github.com/miguelpruivo/flutter_file_picker/issues/1445#issuecomment-2666354303) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
-2. ❗ Opened issue [#38](https://github.com/flet-dev/flet-build-template/issues/38) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
-3. 🗣 Commented on [#4915](https://github.com/flet-dev/flet/issues/4915#issuecomment-2666074112) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#163449](https://github.com/flutter/flutter/issues/163449#issuecomment-2664302617) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🔒 Closed issue [#163449](https://github.com/flutter/flutter/issues/163449) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 💪 Opened PR [#4927](https://github.com/flet-dev/flet/pull/4927) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#1445](https://github.com/miguelpruivo/flutter_file_picker/issues/1445#issuecomment-2666354303) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
+3. ❗ Opened issue [#38](https://github.com/flet-dev/flet-build-template/issues/38) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
+4. 🗣 Commented on [#4915](https://github.com/flet-dev/flet/issues/4915#issuecomment-2666074112) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#163449](https://github.com/flutter/flutter/issues/163449#issuecomment-2664302617) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
