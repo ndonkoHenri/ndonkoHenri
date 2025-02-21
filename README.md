@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4927](https://github.com/flet-dev/flet/pull/4927) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#1445](https://github.com/miguelpruivo/flutter_file_picker/issues/1445#issuecomment-2666354303) in [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker)
-3. ❗ Opened issue [#38](https://github.com/flet-dev/flet-build-template/issues/38) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
-4. 🗣 Commented on [#4915](https://github.com/flet-dev/flet/issues/4915#issuecomment-2666074112) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#163449](https://github.com/flutter/flutter/issues/163449#issuecomment-2664302617) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🎉 Merged PR [#388](https://github.com/flet-dev/website/pull/388) in [flet-dev/website](https://github.com/flet-dev/website)
+2. 🗣 Commented on [#2](https://github.com/flet-dev/flet-webview/issues/2#issuecomment-2672593728) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
+3. 🗣 Commented on [#3638](https://github.com/flet-dev/flet/pull/3638#issuecomment-2672587015) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ❌ Closed PR [#3638](https://github.com/flet-dev/flet/pull/3638) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 💪 Opened PR [#4927](https://github.com/flet-dev/flet/pull/4927) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
