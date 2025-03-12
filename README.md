@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.9.2](https://github.com/flet-dev/serious-python/releases/tag/v0.9.2) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-2. 🚀 Published release [v0.8.4](https://github.com/flet-dev/serious-python/releases/tag/v0.8.4) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-3. 🚀 Published release [v0.9.1](https://github.com/flet-dev/serious-python/releases/tag/v0.9.1) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-4. 🚀 Published release [v0.9.0](https://github.com/flet-dev/serious-python/releases/tag/v0.9.0) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-5. 🚀 Published release [v0.8.7](https://github.com/flet-dev/serious-python/releases/tag/v0.8.7) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+1. 🔒 Closed issue [#317](https://github.com/flet-dev/flet/issues/317) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#317](https://github.com/flet-dev/flet/issues/317#issuecomment-2716007173) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🚀 Published release [v0.9.2](https://github.com/flet-dev/serious-python/releases/tag/v0.9.2) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+4. 🚀 Published release [v0.8.4](https://github.com/flet-dev/serious-python/releases/tag/v0.8.4) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+5. 🚀 Published release [v0.9.1](https://github.com/flet-dev/serious-python/releases/tag/v0.9.1) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
 <!--END_SECTION:activity-->
