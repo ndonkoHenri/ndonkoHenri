@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/flet-dev/flet-map/pull/1) in [flet-dev/flet-map](https://github.com/flet-dev/flet-map)
-2. 🗣 Commented on [#2663](https://github.com/flet-dev/flet/issues/2663#issuecomment-2805030967) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#3](https://github.com/flet-dev/flet-audio/issues/3#issuecomment-2788572655) in [flet-dev/flet-audio](https://github.com/flet-dev/flet-audio)
-4. 🗣 Commented on [#3376](https://github.com/flet-dev/flet/issues/3376#issuecomment-2788519300) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🎉 Merged PR [#412](https://github.com/flet-dev/website/pull/412) in [flet-dev/website](https://github.com/flet-dev/website)
+1. ❌ Closed PR [#2](https://github.com/flet-dev/flet-video/pull/2) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+2. ❌ Closed PR [#6](https://github.com/flet-dev/flet-webview/pull/6) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
+3. ❌ Closed PR [#8](https://github.com/flet-dev/flet-video/pull/8) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+4. ❌ Closed PR [#1](https://github.com/flet-dev/flet-map/pull/1) in [flet-dev/flet-map](https://github.com/flet-dev/flet-map)
+5. 🗣 Commented on [#2663](https://github.com/flet-dev/flet/issues/2663#issuecomment-2805030967) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
