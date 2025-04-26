@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/flet-dev/flet-rive/pull/1) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
-2. 💪 Opened PR [#5239](https://github.com/flet-dev/flet/pull/5239) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ❌ Closed PR [#2](https://github.com/flet-dev/flet-video/pull/2) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
-4. ❌ Closed PR [#6](https://github.com/flet-dev/flet-webview/pull/6) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
-5. ❌ Closed PR [#8](https://github.com/flet-dev/flet-video/pull/8) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+1. 💪 Opened PR [#5246](https://github.com/flet-dev/flet/pull/5246) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. ❌ Closed PR [#1](https://github.com/flet-dev/flet-rive/pull/1) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
+3. 💪 Opened PR [#5239](https://github.com/flet-dev/flet/pull/5239) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ❌ Closed PR [#2](https://github.com/flet-dev/flet-video/pull/2) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+5. ❌ Closed PR [#6](https://github.com/flet-dev/flet-webview/pull/6) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
 <!--END_SECTION:activity-->
