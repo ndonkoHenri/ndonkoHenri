@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-lottie/releases/tag/0.1.0) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
-2. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-permission-handler/releases/tag/0.1.0) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
-3. ❌ Closed PR [#2](https://github.com/flet-dev/flet-audio/pull/2) in [flet-dev/flet-audio](https://github.com/flet-dev/flet-audio)
-4. ❌ Closed PR [#1](https://github.com/flet-dev/flet-webview/pull/1) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
-5. 🗣 Commented on [#5198](https://github.com/flet-dev/flet/issues/5198#issuecomment-2928448817) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-datatable2/releases/tag/v0.1.0) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
+2. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-lottie/releases/tag/0.1.0) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
+3. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-permission-handler/releases/tag/0.1.0) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+4. ❌ Closed PR [#2](https://github.com/flet-dev/flet-audio/pull/2) in [flet-dev/flet-audio](https://github.com/flet-dev/flet-audio)
+5. ❌ Closed PR [#1](https://github.com/flet-dev/flet-webview/pull/1) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
 <!--END_SECTION:activity-->
