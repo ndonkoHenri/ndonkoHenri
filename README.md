@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5365](https://github.com/flet-dev/flet/pull/5365#issuecomment-2966162231) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. ❌ Closed PR [#3](https://github.com/flet-dev/flet-ads/pull/3) in [flet-dev/flet-ads](https://github.com/flet-dev/flet-ads)
-3. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-datatable2/releases/tag/v0.1.0) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
-4. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-lottie/releases/tag/0.1.0) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
-5. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-permission-handler/releases/tag/0.1.0) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+1. 🗣 Commented on [#5313](https://github.com/flet-dev/flet/issues/5313#issuecomment-2966497562) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#5365](https://github.com/flet-dev/flet/pull/5365#issuecomment-2966162231) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ❌ Closed PR [#3](https://github.com/flet-dev/flet-ads/pull/3) in [flet-dev/flet-ads](https://github.com/flet-dev/flet-ads)
+4. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-datatable2/releases/tag/v0.1.0) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
+5. 🚀 Published release [v0.1.0](https://github.com/flet-dev/flet-lottie/releases/tag/0.1.0) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
 <!--END_SECTION:activity-->
