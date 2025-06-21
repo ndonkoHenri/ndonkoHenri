@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/flet-dev/flet-webview/pull/12) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
-2. 💪 Opened PR [#12](https://github.com/flet-dev/flet-video/pull/12) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
-3. 💪 Opened PR [#2](https://github.com/flet-dev/flet-rive/pull/2) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
-4. 💪 Opened PR [#2](https://github.com/flet-dev/flet-permission-handler/pull/2) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
-5. 💪 Opened PR [#5](https://github.com/flet-dev/flet-map/pull/5) in [flet-dev/flet-map](https://github.com/flet-dev/flet-map)
+1. ❗ Opened issue [#5386](https://github.com/flet-dev/flet/issues/5386) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#12](https://github.com/flet-dev/flet-webview/pull/12) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
+3. 💪 Opened PR [#12](https://github.com/flet-dev/flet-video/pull/12) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+4. 💪 Opened PR [#2](https://github.com/flet-dev/flet-rive/pull/2) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
+5. 💪 Opened PR [#2](https://github.com/flet-dev/flet-permission-handler/pull/2) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
 <!--END_SECTION:activity-->
