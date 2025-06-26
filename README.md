@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5382](https://github.com/flet-dev/flet/pull/5382#issuecomment-2998896510) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
-3. 💪 Opened PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
-4. ❗ Opened issue [#5386](https://github.com/flet-dev/flet/issues/5386) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#12](https://github.com/flet-dev/flet-webview/pull/12) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
+1. 💪 Opened PR [#5402](https://github.com/flet-dev/flet/pull/5402) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#5382](https://github.com/flet-dev/flet/pull/5382#issuecomment-2998896510) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
+4. 💪 Opened PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
+5. ❗ Opened issue [#5386](https://github.com/flet-dev/flet/issues/5386) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
