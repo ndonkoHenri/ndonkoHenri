@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5402](https://github.com/flet-dev/flet/pull/5402) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#5382](https://github.com/flet-dev/flet/pull/5382#issuecomment-2998896510) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
-4. 💪 Opened PR [#1](https://github.com/ndonkoHenri/flet-chartz/pull/1) in [ndonkoHenri/flet-chartz](https://github.com/ndonkoHenri/flet-chartz)
-5. ❗ Opened issue [#5386](https://github.com/flet-dev/flet/issues/5386) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#4](https://github.com/flet-dev/flet-ads/pull/4) in [flet-dev/flet-ads](https://github.com/flet-dev/flet-ads)
+2. 🎉 Merged PR [#5](https://github.com/flet-dev/flet-audio/pull/5) in [flet-dev/flet-audio](https://github.com/flet-dev/flet-audio)
+3. 🎉 Merged PR [#3](https://github.com/flet-dev/flet-audio-recorder/pull/3) in [flet-dev/flet-audio-recorder](https://github.com/flet-dev/flet-audio-recorder)
+4. 🎉 Merged PR [#4](https://github.com/flet-dev/flet-datatable2/pull/4) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
+5. 🎉 Merged PR [#12](https://github.com/flet-dev/flet-video/pull/12) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
 <!--END_SECTION:activity-->
