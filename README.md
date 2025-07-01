@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3022750744) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
-2. ❗ Opened issue [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
-3. ❗ Opened issue [#5406](https://github.com/flet-dev/flet/issues/5406) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#14](https://github.com/flet-dev/flet-video/pull/14) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
-5. 🗣 Commented on [#13](https://github.com/flet-dev/flet-video/issues/13#issuecomment-3015145177) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
+1. 🔒 Closed issue [#5175](https://github.com/flet-dev/flet/issues/5175) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3022750744) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
+3. ❗ Opened issue [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
+4. ❗ Opened issue [#5406](https://github.com/flet-dev/flet/issues/5406) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 💪 Opened PR [#14](https://github.com/flet-dev/flet-video/pull/14) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
 <!--END_SECTION:activity-->
