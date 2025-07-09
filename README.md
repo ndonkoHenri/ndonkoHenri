@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#211](https://github.com/flet-dev/examples/pull/211) in [flet-dev/examples](https://github.com/flet-dev/examples)
-2. 🗣 Commented on [#210](https://github.com/flet-dev/examples/pull/210#issuecomment-3032874917) in [flet-dev/examples](https://github.com/flet-dev/examples)
-3. 🎉 Merged PR [#210](https://github.com/flet-dev/examples/pull/210) in [flet-dev/examples](https://github.com/flet-dev/examples)
-4. 🔒 Closed issue [#5309](https://github.com/flet-dev/flet/issues/5309) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🔒 Closed issue [#5407](https://github.com/flet-dev/flet/issues/5407) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051084398) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
+2. 🎉 Merged PR [#211](https://github.com/flet-dev/examples/pull/211) in [flet-dev/examples](https://github.com/flet-dev/examples)
+3. 🗣 Commented on [#210](https://github.com/flet-dev/examples/pull/210#issuecomment-3032874917) in [flet-dev/examples](https://github.com/flet-dev/examples)
+4. 🎉 Merged PR [#210](https://github.com/flet-dev/examples/pull/210) in [flet-dev/examples](https://github.com/flet-dev/examples)
+5. 🔒 Closed issue [#5309](https://github.com/flet-dev/flet/issues/5309) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
