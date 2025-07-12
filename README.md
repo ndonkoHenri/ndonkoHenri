@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#294](https://github.com/mkdocstrings/python/issues/294) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-2. 🗣 Commented on [#5428](https://github.com/flet-dev/flet/issues/5428#issuecomment-3051909482) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051836934) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
-4. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051142696) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
-5. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051084398) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
+1. ❗ Opened issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+2. ❗ Opened issue [#294](https://github.com/mkdocstrings/python/issues/294) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+3. 🗣 Commented on [#5428](https://github.com/flet-dev/flet/issues/5428#issuecomment-3051909482) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051836934) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
+5. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3051142696) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
 <!--END_SECTION:activity-->
