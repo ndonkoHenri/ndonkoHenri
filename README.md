@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-2. 🗣 Commented on [#295](https://github.com/mkdocstrings/python/issues/295#issuecomment-3066127625) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-3. ❗ Opened issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-4. ❗ Opened issue [#294](https://github.com/mkdocstrings/python/issues/294) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-5. 🗣 Commented on [#5428](https://github.com/flet-dev/flet/issues/5428#issuecomment-3051909482) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#4](https://github.com/flet-dev/flet-permission-handler/pull/4) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+2. 🔒 Closed issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+3. 🗣 Commented on [#295](https://github.com/mkdocstrings/python/issues/295#issuecomment-3066127625) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+4. ❗ Opened issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+5. ❗ Opened issue [#294](https://github.com/mkdocstrings/python/issues/294) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
 <!--END_SECTION:activity-->
