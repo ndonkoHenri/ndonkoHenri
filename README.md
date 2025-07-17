@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/flet-dev/flet-lottie/pull/9) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
-2. 💪 Opened PR [#4](https://github.com/flet-dev/flet-permission-handler/pull/4) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
-3. 🔒 Closed issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-4. 🗣 Commented on [#295](https://github.com/mkdocstrings/python/issues/295#issuecomment-3066127625) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
-5. ❗ Opened issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+1. ❗ Opened issue [#4](https://github.com/flet-dev/flet-rive/issues/4) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
+2. 🎉 Merged PR [#9](https://github.com/flet-dev/flet-lottie/pull/9) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
+3. 💪 Opened PR [#4](https://github.com/flet-dev/flet-permission-handler/pull/4) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+4. 🔒 Closed issue [#295](https://github.com/mkdocstrings/python/issues/295) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
+5. 🗣 Commented on [#295](https://github.com/mkdocstrings/python/issues/295#issuecomment-3066127625) in [mkdocstrings/python](https://github.com/mkdocstrings/python)
 <!--END_SECTION:activity-->
