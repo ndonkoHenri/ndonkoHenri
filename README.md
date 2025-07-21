@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#219](https://github.com/flet-dev/examples/pull/219) in [flet-dev/examples](https://github.com/flet-dev/examples)
-2. 🔓 Reopened issue [#5299](https://github.com/flet-dev/flet/issues/5299) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ❗ Opened issue [#4](https://github.com/flet-dev/flet-rive/issues/4) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
-4. 🎉 Merged PR [#9](https://github.com/flet-dev/flet-lottie/pull/9) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
-5. 💪 Opened PR [#4](https://github.com/flet-dev/flet-permission-handler/pull/4) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+1. 💪 Opened PR [#5466](https://github.com/flet-dev/flet/pull/5466) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#219](https://github.com/flet-dev/examples/pull/219) in [flet-dev/examples](https://github.com/flet-dev/examples)
+3. 🔓 Reopened issue [#5299](https://github.com/flet-dev/flet/issues/5299) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ❗ Opened issue [#4](https://github.com/flet-dev/flet-rive/issues/4) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
+5. 🎉 Merged PR [#9](https://github.com/flet-dev/flet-lottie/pull/9) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
 <!--END_SECTION:activity-->
