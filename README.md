@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3359](https://github.com/flet-dev/flet/issues/3359#issuecomment-3148395517) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#5516](https://github.com/flet-dev/flet/pull/5516) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#565](https://github.com/flet-dev/flet/issues/565#issuecomment-3146873675) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3146865905) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
-5. 💪 Opened PR [#5515](https://github.com/flet-dev/flet/pull/5515) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#825](https://github.com/flet-dev/flet/issues/825#issuecomment-3152430631) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#3359](https://github.com/flet-dev/flet/issues/3359#issuecomment-3148395517) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#5516](https://github.com/flet-dev/flet/pull/5516) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#565](https://github.com/flet-dev/flet/issues/565#issuecomment-3146873675) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#47](https://github.com/analog-garage/mkdocstrings-python-xref/issues/47#issuecomment-3146865905) in [analog-garage/mkdocstrings-python-xref](https://github.com/analog-garage/mkdocstrings-python-xref)
 <!--END_SECTION:activity-->
