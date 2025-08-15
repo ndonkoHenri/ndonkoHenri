@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#14](https://github.com/flet-dev/flet-charts/pull/14) in [flet-dev/flet-charts](https://github.com/flet-dev/flet-charts)
-2. ❌ Closed PR [#14](https://github.com/flet-dev/flet-charts/pull/14) in [flet-dev/flet-charts](https://github.com/flet-dev/flet-charts)
-3. 🗣 Commented on [#5542](https://github.com/flet-dev/flet/issues/5542#issuecomment-3183614688) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🔒 Closed issue [#5542](https://github.com/flet-dev/flet/issues/5542) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#5540](https://github.com/flet-dev/flet/pull/5540) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#9](https://github.com/flet-dev/flet-map/pull/9) in [flet-dev/flet-map](https://github.com/flet-dev/flet-map)
+2. 💪 Opened PR [#7](https://github.com/flet-dev/flet-rive/pull/7) in [flet-dev/flet-rive](https://github.com/flet-dev/flet-rive)
+3. 💪 Opened PR [#11](https://github.com/flet-dev/flet-lottie/pull/11) in [flet-dev/flet-lottie](https://github.com/flet-dev/flet-lottie)
+4. 💪 Opened PR [#8](https://github.com/flet-dev/flet-geolocator/pull/8) in [flet-dev/flet-geolocator](https://github.com/flet-dev/flet-geolocator)
+5. 💪 Opened PR [#6](https://github.com/flet-dev/flet-flashlight/pull/6) in [flet-dev/flet-flashlight](https://github.com/flet-dev/flet-flashlight)
 <!--END_SECTION:activity-->
