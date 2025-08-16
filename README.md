@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5494](https://github.com/flet-dev/flet/issues/5494#issuecomment-3193925839) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#5558](https://github.com/flet-dev/flet/pull/5558) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#18](https://github.com/flet-dev/flet-webview/pull/18) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
-4. 💪 Opened PR [#21](https://github.com/flet-dev/flet-video/pull/21) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
-5. 💪 Opened PR [#5](https://github.com/flet-dev/flet-permission-handler/pull/5) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+1. ❗ Opened issue [#5563](https://github.com/flet-dev/flet/issues/5563) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#5494](https://github.com/flet-dev/flet/issues/5494#issuecomment-3193925839) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#5558](https://github.com/flet-dev/flet/pull/5558) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#18](https://github.com/flet-dev/flet-webview/pull/18) in [flet-dev/flet-webview](https://github.com/flet-dev/flet-webview)
+5. 💪 Opened PR [#21](https://github.com/flet-dev/flet-video/pull/21) in [flet-dev/flet-video](https://github.com/flet-dev/flet-video)
 <!--END_SECTION:activity-->
