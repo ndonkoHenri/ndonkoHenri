@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5568](https://github.com/flet-dev/flet/issues/5568#issuecomment-3198195947) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#7](https://github.com/flet-dev/flet-ads/pull/7) in [flet-dev/flet-ads](https://github.com/flet-dev/flet-ads)
-3. 🗣 Commented on [#2](https://github.com/flet-dev/flet-geolocator/pull/2#issuecomment-3194990094) in [flet-dev/flet-geolocator](https://github.com/flet-dev/flet-geolocator)
-4. 🗣 Commented on [#12](https://github.com/flet-dev/flet-charts/issues/12#issuecomment-3194984945) in [flet-dev/flet-charts](https://github.com/flet-dev/flet-charts)
-5. 🗣 Commented on [#5565](https://github.com/flet-dev/flet/issues/5565#issuecomment-3194644888) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#1](https://github.com/flet-dev/flet-permission-handler/issues/1#issuecomment-3201642315) in [flet-dev/flet-permission-handler](https://github.com/flet-dev/flet-permission-handler)
+2. 🗣 Commented on [#5568](https://github.com/flet-dev/flet/issues/5568#issuecomment-3198195947) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#7](https://github.com/flet-dev/flet-ads/pull/7) in [flet-dev/flet-ads](https://github.com/flet-dev/flet-ads)
+4. 🗣 Commented on [#2](https://github.com/flet-dev/flet-geolocator/pull/2#issuecomment-3194990094) in [flet-dev/flet-geolocator](https://github.com/flet-dev/flet-geolocator)
+5. 🗣 Commented on [#12](https://github.com/flet-dev/flet-charts/issues/12#issuecomment-3194984945) in [flet-dev/flet-charts](https://github.com/flet-dev/flet-charts)
 <!--END_SECTION:activity-->
