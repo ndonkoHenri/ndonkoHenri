@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5656](https://github.com/flet-dev/flet/issues/5656) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#2210](https://github.com/flet-dev/flet/issues/2210) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#2210](https://github.com/flet-dev/flet/issues/2210#issuecomment-3325264830) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#2223](https://github.com/flet-dev/flet/issues/2223#issuecomment-3325261953) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#1463](https://github.com/flet-dev/flet/issues/1463#issuecomment-3325261387) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/flet-audio/pull/1) in [ndonkoHenri/flet-audio](https://github.com/ndonkoHenri/flet-audio)
+2. 🚀 Published release [0.4.0](https://github.com/ndonkoHenri/flet-audio/releases/tag/0.4.0) in [ndonkoHenri/flet-audio](https://github.com/ndonkoHenri/flet-audio)
+3. 💪 Opened PR [#1](https://github.com/ndonkoHenri/flet-audio/pull/1) in [ndonkoHenri/flet-audio](https://github.com/ndonkoHenri/flet-audio)
+4. ❗ Opened issue [#5656](https://github.com/flet-dev/flet/issues/5656) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#2210](https://github.com/flet-dev/flet/issues/2210) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
