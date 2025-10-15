@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5712](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#2096](https://github.com/flet-dev/flet/issues/2096) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#5669](https://github.com/flet-dev/flet/pull/5669#issuecomment-3358330853) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#5672](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5.  Assigned issue [#1938](https://github.com/flet-dev/flet/issues/1938) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. ❌ Closed PR [#172](undefined) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+2. ❌ Closed PR [#158](undefined) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 💪 Opened PR [#5712](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#2096](https://github.com/flet-dev/flet/issues/2096) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#5669](https://github.com/flet-dev/flet/pull/5669#issuecomment-3358330853) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
