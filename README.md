@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5716](https://github.com/flet-dev/flet/issues/5716) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#5716](https://github.com/flet-dev/flet/issues/5716#issuecomment-3413220956) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#11](https://github.com/flet-dev/flet-datatable2/issues/11#issuecomment-3413217866) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
-4.  Assigned issue [#2694](https://github.com/flet-dev/flet/issues/2694) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#11](https://github.com/flet-dev/flet-datatable2/issues/11#issuecomment-3410248209) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
+1. 💪 Opened PR [#5718](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🔒 Closed issue [#5716](https://github.com/flet-dev/flet/issues/5716) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#5716](https://github.com/flet-dev/flet/issues/5716#issuecomment-3413220956) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#11](https://github.com/flet-dev/flet-datatable2/issues/11#issuecomment-3413217866) in [flet-dev/flet-datatable2](https://github.com/flet-dev/flet-datatable2)
+5.  Assigned issue [#2694](https://github.com/flet-dev/flet/issues/2694) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
