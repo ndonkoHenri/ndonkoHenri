@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#5467](https://github.com/flet-dev/flet/issues/5467) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2.  Assigned issue [#2052](https://github.com/flet-dev/flet/issues/2052) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ❌ Closed PR [#52](undefined) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
-4. 💪 Opened PR [#5733](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5.  Assigned issue [#2874](https://github.com/flet-dev/flet/issues/2874) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1.  Assigned issue [#3335](https://github.com/flet-dev/flet/issues/3335) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2.  Assigned issue [#5467](https://github.com/flet-dev/flet/issues/5467) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3.  Assigned issue [#2052](https://github.com/flet-dev/flet/issues/2052) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ❌ Closed PR [#52](undefined) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
+5. 💪 Opened PR [#5733](undefined) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
