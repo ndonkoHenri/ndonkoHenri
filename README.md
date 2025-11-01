@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jdsans/vscode-faiss-viewer/issues/1#issuecomment-3475406635) in [jdsans/vscode-faiss-viewer](https://github.com/jdsans/vscode-faiss-viewer)
-2.  Labeled issue [#3346](https://github.com/flet-dev/flet/issues/3346) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#3346](https://github.com/flet-dev/flet/issues/3346#issuecomment-3474282152) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4.  Assigned issue [#3353](https://github.com/flet-dev/flet/issues/3353) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#2099](https://github.com/flet-dev/flet/issues/2099#issuecomment-3474255599) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1.  Assigned issue [#5765](https://github.com/flet-dev/flet/issues/5765) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#1](https://github.com/jdsans/vscode-faiss-viewer/issues/1#issuecomment-3475406635) in [jdsans/vscode-faiss-viewer](https://github.com/jdsans/vscode-faiss-viewer)
+3.  Labeled issue [#3346](https://github.com/flet-dev/flet/issues/3346) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#3346](https://github.com/flet-dev/flet/issues/3346#issuecomment-3474282152) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5.  Assigned issue [#3353](https://github.com/flet-dev/flet/issues/3353) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
