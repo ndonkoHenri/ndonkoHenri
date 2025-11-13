@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#278](https://github.com/fralau/mkdocs-macros-plugin/issues/278#issuecomment-3526392611) in [fralau/mkdocs-macros-plugin](https://github.com/fralau/mkdocs-macros-plugin)
-2.  Labeled issue [#5438](https://github.com/flet-dev/flet/issues/5438) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3.  Labeled issue [#5438](https://github.com/flet-dev/flet/issues/5438) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#5438](https://github.com/flet-dev/flet/issues/5438#issuecomment-3524734920) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5.  Labeled issue [#5420](https://github.com/flet-dev/flet/issues/5420) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1.  Labeled issue [#5013](https://github.com/flet-dev/flet/issues/5013) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#5013](https://github.com/flet-dev/flet/issues/5013#issuecomment-3527546565) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#5464](https://github.com/flet-dev/flet/issues/5464) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#5464](https://github.com/flet-dev/flet/issues/5464#issuecomment-3527530231) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#5455](https://github.com/flet-dev/flet/issues/5455) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
