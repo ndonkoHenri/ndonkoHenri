@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#5819](https://github.com/flet-dev/flet/issues/5819) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2.  Labeled issue [#5819](https://github.com/flet-dev/flet/issues/5819) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3.  Labeled issue [#5819](https://github.com/flet-dev/flet/issues/5819) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4.  Labeled issue [#5100](https://github.com/flet-dev/flet/issues/5100) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5.  Labeled issue [#5100](https://github.com/flet-dev/flet/issues/5100) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🔒 Closed issue [#5004](https://github.com/flet-dev/flet/issues/5004) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🔒 Closed issue [#5160](https://github.com/flet-dev/flet/issues/5160) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#4476](https://github.com/flet-dev/flet/issues/4476) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#5423](https://github.com/flet-dev/flet/issues/5423) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔒 Closed issue [#5438](https://github.com/flet-dev/flet/issues/5438) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
