@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#5894](https://github.com/flet-dev/flet/issues/5894) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#5894](https://github.com/flet-dev/flet/issues/5894) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3.  Assigned issue [#5895](https://github.com/flet-dev/flet/issues/5895) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4.  Labeled issue [#5895](https://github.com/flet-dev/flet/issues/5895) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#3346](https://github.com/flet-dev/flet/issues/3346#issuecomment-3643432927) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2.  Unlabeled issue [#5894](https://github.com/flet-dev/flet/issues/5894) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#5894](https://github.com/flet-dev/flet/issues/5894) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4.  Assigned issue [#5895](https://github.com/flet-dev/flet/issues/5895) in [flet-dev/flet](https://github.com/flet-dev/flet)
 5.  Labeled issue [#5895](https://github.com/flet-dev/flet/issues/5895) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
