@@ -36,8 +36,8 @@
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#3672](https://github.com/flet-dev/flet/issues/3672) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2.  Unlabeled issue [#3672](https://github.com/flet-dev/flet/issues/3672) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3.  Unlabeled issue [#5415](https://github.com/flet-dev/flet/issues/5415) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. ℹ️ Unlabeled issue [#3672](https://github.com/flet-dev/flet/issues/3672) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Unlabeled issue [#5415](https://github.com/flet-dev/flet/issues/5415) in [flet-dev/flet](https://github.com/flet-dev/flet)
 4. 🔒 Closed issue [#5415](https://github.com/flet-dev/flet/issues/5415) in [flet-dev/flet](https://github.com/flet-dev/flet)
 5. 🗣 Commented on [#5927](https://github.com/flet-dev/flet/issues/5927#issuecomment-3687379246) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
