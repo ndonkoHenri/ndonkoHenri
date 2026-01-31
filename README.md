@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6102](https://github.com/flet-dev/flet/pull/6102) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🎉 Merged PR [#6097](https://github.com/flet-dev/flet/pull/6097) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🔓 Reopened issue [#6096](https://github.com/flet-dev/flet/issues/6096) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#6102](https://github.com/flet-dev/flet/pull/6102) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Labeled issue [#6098](https://github.com/flet-dev/flet/issues/6098) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. ℹ️ Labeled issue [#6091](https://github.com/flet-dev/flet/issues/6091) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. ℹ️ Labeled issue [#6103](https://github.com/flet-dev/flet/issues/6103) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🎉 Merged PR [#6102](https://github.com/flet-dev/flet/pull/6102) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#6097](https://github.com/flet-dev/flet/pull/6097) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🔓 Reopened issue [#6096](https://github.com/flet-dev/flet/issues/6096) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
