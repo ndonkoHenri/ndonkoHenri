@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#2941](https://github.com/flet-dev/flet/issues/2941) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#2941](https://github.com/flet-dev/flet/issues/2941) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Unlabeled issue [#3711](https://github.com/flet-dev/flet/issues/3711) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#6107](https://github.com/flet-dev/flet/pull/6107) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#1](https://github.com/ndonkoHenri/flet/pull/1) in [ndonkoHenri/flet](https://github.com/ndonkoHenri/flet)
+1. 🔒 Closed issue [#4544](https://github.com/flet-dev/flet/issues/4544) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🔒 Closed issue [#4636](https://github.com/flet-dev/flet/issues/4636) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Unlabeled issue [#2941](https://github.com/flet-dev/flet/issues/2941) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#2941](https://github.com/flet-dev/flet/issues/2941) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Unlabeled issue [#3711](https://github.com/flet-dev/flet/issues/3711) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
