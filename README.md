@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#6117](https://github.com/flet-dev/flet/issues/6117) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#6117](https://github.com/flet-dev/flet/issues/6117#issuecomment-3837432456) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Labeled issue [#2802](https://github.com/flet-dev/flet/issues/2802) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. ℹ️ Assigned issue [#2802](https://github.com/flet-dev/flet/issues/2802) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Unlabeled issue [#2802](https://github.com/flet-dev/flet/issues/2802) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🚀 Published release [v1.0](https://github.com/ndonkoHenri/flet-github-action-workflows/releases/tag/v1.0) in [ndonkoHenri/flet-github-action-workflows](https://github.com/ndonkoHenri/flet-github-action-workflows)
+2. ℹ️ Labeled issue [#6117](https://github.com/flet-dev/flet/issues/6117) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#6117](https://github.com/flet-dev/flet/issues/6117#issuecomment-3837432456) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ℹ️ Labeled issue [#2802](https://github.com/flet-dev/flet/issues/2802) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Assigned issue [#2802](https://github.com/flet-dev/flet/issues/2802) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
