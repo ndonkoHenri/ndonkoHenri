@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6114](https://github.com/flet-dev/flet/pull/6114) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🎉 Merged PR [#6074](https://github.com/flet-dev/flet/pull/6074) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#6135](https://github.com/flet-dev/flet/issues/6135#issuecomment-3862602050) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🎉 Merged PR [#6119](https://github.com/flet-dev/flet/pull/6119) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#1735](https://github.com/flet-dev/flet/issues/1735#issuecomment-3862142785) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#74](https://github.com/flet-dev/flet-build-template/pull/74) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
+2. 🎉 Merged PR [#73](https://github.com/flet-dev/flet-build-template/pull/73) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
+3. 🎉 Merged PR [#6114](https://github.com/flet-dev/flet/pull/6114) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#6074](https://github.com/flet-dev/flet/pull/6074) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#6135](https://github.com/flet-dev/flet/issues/6135#issuecomment-3862602050) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
