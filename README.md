@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5700](https://github.com/flet-dev/flet/issues/5700#issuecomment-3955248465) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#1](https://github.com/Alisonsantos77/flet_android_notify/pull/1) in [Alisonsantos77/flet_android_notify](https://github.com/Alisonsantos77/flet_android_notify)
-3. ℹ️ Labeled issue [#3738](https://github.com/flet-dev/flet/issues/3738) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. ℹ️ Assigned issue [#5692](https://github.com/flet-dev/flet/issues/5692) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#77](https://github.com/flet-dev/flet-build-template/pull/77) in [flet-dev/flet-build-template](https://github.com/flet-dev/flet-build-template)
+1. 🔒 Closed issue [#6200](https://github.com/flet-dev/flet/issues/6200) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🗣 Commented on [#6200](https://github.com/flet-dev/flet/issues/6200#issuecomment-3955321681) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#6201](https://github.com/flet-dev/flet/issues/6201) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ℹ️ Labeled issue [#6210](https://github.com/flet-dev/flet/issues/6210) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#6210](https://github.com/flet-dev/flet/issues/6210#issuecomment-3955313048) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
