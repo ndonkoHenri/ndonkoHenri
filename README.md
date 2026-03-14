@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#6177](https://github.com/flet-dev/flet/issues/6177) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#6177](https://github.com/flet-dev/flet/issues/6177#issuecomment-4060181900) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Assigned issue [#6177](https://github.com/flet-dev/flet/issues/6177) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#6303](https://github.com/flet-dev/flet/issues/6303#issuecomment-4060145568) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Assigned issue [#6306](https://github.com/flet-dev/flet/issues/6306) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#6177](https://github.com/flet-dev/flet/issues/6177#issuecomment-4060470984) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. ℹ️ Labeled issue [#6177](https://github.com/flet-dev/flet/issues/6177) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🗣 Commented on [#6177](https://github.com/flet-dev/flet/issues/6177#issuecomment-4060181900) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ℹ️ Assigned issue [#6177](https://github.com/flet-dev/flet/issues/6177) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#6303](https://github.com/flet-dev/flet/issues/6303#issuecomment-4060145568) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
