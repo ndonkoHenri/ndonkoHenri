@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6416](https://github.com/flet-dev/flet/pull/6416) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🎉 Merged PR [#6403](https://github.com/flet-dev/flet/pull/6403) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🎉 Merged PR [#6383](https://github.com/flet-dev/flet/pull/6383) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. ℹ️ Assigned issue [#6419](https://github.com/flet-dev/flet/issues/6419) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#6428](https://github.com/flet-dev/flet/pull/6428) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#6402](https://github.com/flet-dev/flet/pull/6402) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🎉 Merged PR [#6416](https://github.com/flet-dev/flet/pull/6416) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🎉 Merged PR [#6403](https://github.com/flet-dev/flet/pull/6403) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#6383](https://github.com/flet-dev/flet/pull/6383) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Assigned issue [#6419](https://github.com/flet-dev/flet/issues/6419) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
