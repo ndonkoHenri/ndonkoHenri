@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/caamer20/Telegram-Drive/issues/24#issuecomment-4342420832) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
-2. ❗ Opened issue [#24](https://github.com/caamer20/Telegram-Drive/issues/24) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
-3. 💪 Opened PR [#6450](https://github.com/flet-dev/flet/pull/6450) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. ℹ️ Labeled issue [#6446](https://github.com/flet-dev/flet/issues/6446) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Labeled issue [#6446](https://github.com/flet-dev/flet/issues/6446) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🗣 Commented on [#24](https://github.com/caamer20/Telegram-Drive/issues/24#issuecomment-4347667746) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
+2. 🗣 Commented on [#24](https://github.com/caamer20/Telegram-Drive/issues/24#issuecomment-4347589948) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
+3. 🔒 Closed issue [#24](https://github.com/caamer20/Telegram-Drive/issues/24) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
+4. 🗣 Commented on [#24](https://github.com/caamer20/Telegram-Drive/issues/24#issuecomment-4342420832) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
+5. ❗ Opened issue [#24](https://github.com/caamer20/Telegram-Drive/issues/24) in [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive)
 <!--END_SECTION:activity-->
