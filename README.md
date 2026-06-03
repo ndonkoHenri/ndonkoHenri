@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/flet-dev/python-build/pull/7) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-2. 💪 Opened PR [#7](https://github.com/flet-dev/python-build/pull/7) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-3. 🗣 Commented on [#6](https://github.com/flet-dev/python-build/issues/6#issuecomment-4604102738) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-4. ❗ Opened issue [#6](https://github.com/flet-dev/python-build/issues/6) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-5. 🎉 Merged PR [#57](https://github.com/flet-dev/mobile-forge/pull/57) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+1. 🎉 Merged PR [#9](https://github.com/flet-dev/python-build/pull/9) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+2. 💪 Opened PR [#9](https://github.com/flet-dev/python-build/pull/9) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+3. 🎉 Merged PR [#7](https://github.com/flet-dev/python-build/pull/7) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+4. 💪 Opened PR [#7](https://github.com/flet-dev/python-build/pull/7) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+5. 🗣 Commented on [#6](https://github.com/flet-dev/python-build/issues/6#issuecomment-4604102738) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
 <!--END_SECTION:activity-->
