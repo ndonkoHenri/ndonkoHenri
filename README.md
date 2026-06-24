@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6606](https://github.com/flet-dev/flet/pull/6606#issuecomment-4774222154) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#25](https://github.com/flet-dev/awesome-flet/pull/25) in [flet-dev/awesome-flet](https://github.com/flet-dev/awesome-flet)
-3. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/awesome-flet/pull/1) in [ndonkoHenri/awesome-flet](https://github.com/ndonkoHenri/awesome-flet)
-4. 🎉 Merged PR [#84](https://github.com/flet-dev/mobile-forge/pull/84) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-5. 🗣 Commented on [#6604](https://github.com/flet-dev/flet/pull/6604#issuecomment-4754915384) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#23](https://github.com/flet-dev/python-build/pull/23) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+2. 🗣 Commented on [#6606](https://github.com/flet-dev/flet/pull/6606#issuecomment-4774222154) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#25](https://github.com/flet-dev/awesome-flet/pull/25) in [flet-dev/awesome-flet](https://github.com/flet-dev/awesome-flet)
+4. 🎉 Merged PR [#1](https://github.com/ndonkoHenri/awesome-flet/pull/1) in [ndonkoHenri/awesome-flet](https://github.com/ndonkoHenri/awesome-flet)
+5. 🎉 Merged PR [#84](https://github.com/flet-dev/mobile-forge/pull/84) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
 <!--END_SECTION:activity-->
