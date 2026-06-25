@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#6602](https://github.com/flet-dev/flet/pull/6602) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. ℹ️ Assigned issue [#6614](https://github.com/flet-dev/flet/issues/6614) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#6615](https://github.com/flet-dev/flet/pull/6615) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#23](https://github.com/flet-dev/python-build/pull/23) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-5. 🗣 Commented on [#6606](https://github.com/flet-dev/flet/pull/6606#issuecomment-4774222154) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🔒 Closed issue [#44](https://github.com/flet-dev/mobile-forge/issues/44) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+2. ℹ️ Reopened PR [#6602](https://github.com/flet-dev/flet/pull/6602) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Assigned issue [#6614](https://github.com/flet-dev/flet/issues/6614) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#6615](https://github.com/flet-dev/flet/pull/6615) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 💪 Opened PR [#23](https://github.com/flet-dev/python-build/pull/23) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
 <!--END_SECTION:activity-->
