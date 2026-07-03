@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/flet-dev/mobile-forge/pull/95) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-2. 💪 Opened PR [#95](https://github.com/flet-dev/mobile-forge/pull/95) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-3. 💪 Opened PR [#225](https://github.com/flet-dev/serious-python/pull/225) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-4. 🎉 Merged PR [#6602](https://github.com/flet-dev/flet/pull/6602) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🎉 Merged PR [#94](https://github.com/flet-dev/mobile-forge/pull/94) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+1. 🚀 Published release [v4.2.1](https://github.com/flet-dev/serious-python/releases/tag/v4.2.1) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+2. 🚀 Published release [v4.2.0](https://github.com/flet-dev/serious-python/releases/tag/v4.2.0) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 🚀 Published release [v4.1.1](https://github.com/flet-dev/serious-python/releases/tag/v4.1.1) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+4. 🚀 Published release [v0.9.12](https://github.com/flet-dev/serious-python/releases/tag/v0.9.12) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+5. 🚀 Published release [v4.1.0](https://github.com/flet-dev/serious-python/releases/tag/v4.1.0) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
 <!--END_SECTION:activity-->
