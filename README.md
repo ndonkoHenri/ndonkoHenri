@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/flet-dev/mobile-forge/pull/97) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-2. 💪 Opened PR [#97](https://github.com/flet-dev/mobile-forge/pull/97) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-3. 🎉 Merged PR [#225](https://github.com/flet-dev/serious-python/pull/225) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-4. 🎉 Merged PR [#96](https://github.com/flet-dev/mobile-forge/pull/96) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-5. 💪 Opened PR [#96](https://github.com/flet-dev/mobile-forge/pull/96) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+1. 🎉 Merged PR [#98](https://github.com/flet-dev/mobile-forge/pull/98) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+2. 💪 Opened PR [#98](https://github.com/flet-dev/mobile-forge/pull/98) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+3. 🎉 Merged PR [#97](https://github.com/flet-dev/mobile-forge/pull/97) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+4. 💪 Opened PR [#97](https://github.com/flet-dev/mobile-forge/pull/97) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+5. 🎉 Merged PR [#225](https://github.com/flet-dev/serious-python/pull/225) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
 <!--END_SECTION:activity-->
