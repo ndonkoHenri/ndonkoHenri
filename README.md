@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#228](https://github.com/flet-dev/serious-python/pull/228) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-2. 🎉 Merged PR [#9](https://github.com/flet-dev/dart-bridge/pull/9) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
-3. 🎉 Merged PR [#99](https://github.com/flet-dev/mobile-forge/pull/99) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-4. 💪 Opened PR [#99](https://github.com/flet-dev/mobile-forge/pull/99) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-5. ℹ️ Assigned issue [#4283](https://github.com/flet-dev/flet/issues/4283) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🚀 Published release [v4.3.0](https://github.com/flet-dev/serious-python/releases/tag/v4.3.0) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+2. 🎉 Merged PR [#228](https://github.com/flet-dev/serious-python/pull/228) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 🎉 Merged PR [#9](https://github.com/flet-dev/dart-bridge/pull/9) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
+4. 🎉 Merged PR [#99](https://github.com/flet-dev/mobile-forge/pull/99) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+5. 💪 Opened PR [#99](https://github.com/flet-dev/mobile-forge/pull/99) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
 <!--END_SECTION:activity-->
