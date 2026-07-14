@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#232](https://github.com/flet-dev/serious-python/pull/232) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-2. 💪 Opened PR [#232](https://github.com/flet-dev/serious-python/pull/232) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-3. 💪 Opened PR [#30](https://github.com/flet-dev/python-build/pull/30) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-4. 🎉 Merged PR [#29](https://github.com/flet-dev/python-build/pull/29) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
-5. 💪 Opened PR [#29](https://github.com/flet-dev/python-build/pull/29) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+1. 🎉 Merged PR [#30](https://github.com/flet-dev/python-build/pull/30) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+2. 🎉 Merged PR [#232](https://github.com/flet-dev/serious-python/pull/232) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 💪 Opened PR [#232](https://github.com/flet-dev/serious-python/pull/232) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+4. 💪 Opened PR [#30](https://github.com/flet-dev/python-build/pull/30) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
+5. 🎉 Merged PR [#29](https://github.com/flet-dev/python-build/pull/29) in [flet-dev/python-build](https://github.com/flet-dev/python-build)
 <!--END_SECTION:activity-->
