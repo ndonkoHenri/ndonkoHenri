@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/flet-dev/dart-bridge/pull/10) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
-2. ℹ️ Assigned issue [#6593](https://github.com/flet-dev/flet/issues/6593) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🚀 Published release [v1.0.0](https://github.com/flet-dev/flet-build-action/releases/tag/v1.0.0) in [flet-dev/flet-build-action](https://github.com/flet-dev/flet-build-action)
-4. 🎉 Merged PR [#6694](https://github.com/flet-dev/flet/pull/6694) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🔒 Closed issue [#6645](https://github.com/flet-dev/flet/issues/6645) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#6697](https://github.com/flet-dev/flet/pull/6697) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#10](https://github.com/flet-dev/dart-bridge/pull/10) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
+3. ℹ️ Assigned issue [#6593](https://github.com/flet-dev/flet/issues/6593) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🚀 Published release [v1.0.0](https://github.com/flet-dev/flet-build-action/releases/tag/v1.0.0) in [flet-dev/flet-build-action](https://github.com/flet-dev/flet-build-action)
+5. 🎉 Merged PR [#6694](https://github.com/flet-dev/flet/pull/6694) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
