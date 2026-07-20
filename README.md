@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6227](https://github.com/flet-dev/flet/issues/6227) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🔒 Closed issue [#6585](https://github.com/flet-dev/flet/issues/6585) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🎉 Merged PR [#10](https://github.com/flet-dev/dart-bridge/pull/10) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
-4. 💪 Opened PR [#6697](https://github.com/flet-dev/flet/pull/6697) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 💪 Opened PR [#10](https://github.com/flet-dev/dart-bridge/pull/10) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
+1. 💪 Opened PR [#239](https://github.com/flet-dev/serious-python/pull/239) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+2. 🗣 Commented on [#2347](https://github.com/flet-dev/flet/issues/2347#issuecomment-5026571051) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🔒 Closed issue [#6227](https://github.com/flet-dev/flet/issues/6227) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🔒 Closed issue [#6585](https://github.com/flet-dev/flet/issues/6585) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🎉 Merged PR [#10](https://github.com/flet-dev/dart-bridge/pull/10) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
 <!--END_SECTION:activity-->
