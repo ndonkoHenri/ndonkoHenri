@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6697](https://github.com/flet-dev/flet/pull/6697) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🎉 Merged PR [#239](https://github.com/flet-dev/serious-python/pull/239) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-3. 💪 Opened PR [#239](https://github.com/flet-dev/serious-python/pull/239) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-4. 🗣 Commented on [#2347](https://github.com/flet-dev/flet/issues/2347#issuecomment-5026571051) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🔒 Closed issue [#6227](https://github.com/flet-dev/flet/issues/6227) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#6702](https://github.com/flet-dev/flet/pull/6702) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 🎉 Merged PR [#6697](https://github.com/flet-dev/flet/pull/6697) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 🎉 Merged PR [#239](https://github.com/flet-dev/serious-python/pull/239) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+4. 💪 Opened PR [#239](https://github.com/flet-dev/serious-python/pull/239) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+5. 🗣 Commented on [#2347](https://github.com/flet-dev/flet/issues/2347#issuecomment-5026571051) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
