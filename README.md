@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6735](https://github.com/flet-dev/flet/pull/6735) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. ℹ️ Assigned issue [#4543](https://github.com/flet-dev/flet/issues/4543) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Assigned issue [#2347](https://github.com/flet-dev/flet/issues/2347) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🎉 Merged PR [#111](https://github.com/flet-dev/mobile-forge/pull/111) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-5. ℹ️ Assigned issue [#6726](https://github.com/flet-dev/flet/issues/6726) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#6735](https://github.com/flet-dev/flet/pull/6735) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#6735](https://github.com/flet-dev/flet/pull/6735) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Assigned issue [#4543](https://github.com/flet-dev/flet/issues/4543) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. ℹ️ Assigned issue [#2347](https://github.com/flet-dev/flet/issues/2347) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🎉 Merged PR [#111](https://github.com/flet-dev/mobile-forge/pull/111) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
 <!--END_SECTION:activity-->
