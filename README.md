@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6769](https://github.com/flet-dev/flet/pull/6769) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#6769](https://github.com/flet-dev/flet/pull/6769) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🗣 Commented on [#5354](https://github.com/flet-dev/flet/issues/5354#issuecomment-5278392982) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🔒 Closed issue [#5354](https://github.com/flet-dev/flet/issues/5354) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🗣 Commented on [#5884](https://github.com/flet-dev/flet/issues/5884#issuecomment-5158296831) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#113](https://github.com/flet-dev/mobile-forge/pull/113) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+2. 💪 Opened PR [#113](https://github.com/flet-dev/mobile-forge/pull/113) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
+3. 🎉 Merged PR [#6769](https://github.com/flet-dev/flet/pull/6769) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#6769](https://github.com/flet-dev/flet/pull/6769) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🗣 Commented on [#5354](https://github.com/flet-dev/flet/issues/5354#issuecomment-5278392982) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
