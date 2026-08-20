@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/flet-dev/dart-bridge/pull/17) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
-2. ℹ️ Labeled issue [#5071](https://github.com/flet-dev/flet/issues/5071) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 💪 Opened PR [#18](https://github.com/flet-dev/dart-bridge/pull/18) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
+2. 💪 Opened PR [#17](https://github.com/flet-dev/dart-bridge/pull/17) in [flet-dev/dart-bridge](https://github.com/flet-dev/dart-bridge)
 3. ℹ️ Labeled issue [#5071](https://github.com/flet-dev/flet/issues/5071) in [flet-dev/flet](https://github.com/flet-dev/flet)
 4. ℹ️ Labeled issue [#5071](https://github.com/flet-dev/flet/issues/5071) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Assigned issue [#5071](https://github.com/flet-dev/flet/issues/5071) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Labeled issue [#5071](https://github.com/flet-dev/flet/issues/5071) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
