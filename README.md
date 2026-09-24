@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#251](https://github.com/flet-dev/serious-python/pull/251) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-2. ℹ️ Labeled issue [#5480](https://github.com/flet-dev/flet/issues/5480) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Assigned issue [#5480](https://github.com/flet-dev/flet/issues/5480) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#250](https://github.com/flet-dev/serious-python/issues/250#issuecomment-5798689406) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-5. 💪 Opened PR [#6882](https://github.com/flet-dev/flet/pull/6882) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. ℹ️ Unlabeled issue [#6629](https://github.com/flet-dev/flet/issues/6629) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#252](https://github.com/flet-dev/serious-python/pull/252) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+3. 💪 Opened PR [#251](https://github.com/flet-dev/serious-python/pull/251) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+4. ℹ️ Labeled issue [#5480](https://github.com/flet-dev/flet/issues/5480) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Assigned issue [#5480](https://github.com/flet-dev/flet/issues/5480) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
