@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6745](https://github.com/flet-dev/flet/issues/6745#issuecomment-5881132954) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 🗣 Commented on [#6894](https://github.com/flet-dev/flet/issues/6894#issuecomment-5860077192) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. ℹ️ Assigned issue [#6894](https://github.com/flet-dev/flet/issues/6894) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🗣 Commented on [#6821](https://github.com/flet-dev/flet/issues/6821#issuecomment-5855161473) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Unlabeled issue [#6821](https://github.com/flet-dev/flet/issues/6821) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. ❌ Closed PR [#2](https://github.com/ndonkoHenri/mobile-forge/pull/2) in [ndonkoHenri/mobile-forge](https://github.com/ndonkoHenri/mobile-forge)
+2. 🗣 Commented on [#2](https://github.com/ndonkoHenri/mobile-forge/pull/2#issuecomment-5972610672) in [ndonkoHenri/mobile-forge](https://github.com/ndonkoHenri/mobile-forge)
+3. 🗣 Commented on [#6745](https://github.com/flet-dev/flet/issues/6745#issuecomment-5881132954) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🗣 Commented on [#6894](https://github.com/flet-dev/flet/issues/6894#issuecomment-5860077192) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ℹ️ Assigned issue [#6894](https://github.com/flet-dev/flet/issues/6894) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
