@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#5655](https://github.com/flet-dev/flet/issues/5655) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. ℹ️ Assigned issue [#5013](https://github.com/flet-dev/flet/issues/5013) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#263](https://github.com/flet-dev/serious-python/pull/263) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
-4. ℹ️ Assigned issue [#5507](https://github.com/flet-dev/flet/issues/5507) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🎉 Merged PR [#262](https://github.com/flet-dev/serious-python/pull/262) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+1. 🎉 Merged PR [#263](https://github.com/flet-dev/serious-python/pull/263) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+2. ℹ️ Assigned issue [#5655](https://github.com/flet-dev/flet/issues/5655) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Assigned issue [#5013](https://github.com/flet-dev/flet/issues/5013) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#263](https://github.com/flet-dev/serious-python/pull/263) in [flet-dev/serious-python](https://github.com/flet-dev/serious-python)
+5. ℹ️ Assigned issue [#5507](https://github.com/flet-dev/flet/issues/5507) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
