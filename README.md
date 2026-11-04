@@ -35,9 +35,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7044](https://github.com/flet-dev/flet/pull/7044) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#7043](https://github.com/flet-dev/flet/pull/7043) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 🎉 Merged PR [#7027](https://github.com/flet-dev/flet/pull/7027) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🎉 Merged PR [#7030](https://github.com/flet-dev/flet/pull/7030) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. 🎉 Merged PR [#7038](https://github.com/flet-dev/flet/pull/7038) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. 🎉 Merged PR [#7043](https://github.com/flet-dev/flet/pull/7043) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#7044](https://github.com/flet-dev/flet/pull/7044) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#7043](https://github.com/flet-dev/flet/pull/7043) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#7027](https://github.com/flet-dev/flet/pull/7027) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 🎉 Merged PR [#7030](https://github.com/flet-dev/flet/pull/7030) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
