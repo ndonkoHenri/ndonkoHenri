@@ -6,12 +6,31 @@
 
 ---
 
-### 📫 Social Profiles 📫
+### 📫 Connect With Me 📫
 
-[![Chat On Discord](https://img.shields.io/badge/--discord?label=Username=ndonkoHenr&logo=Discord&style=social)](https://github.com/ndonkoHenri) 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ndonkohenri) 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ndonkoHenri)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2j9sVx0O7M8CebjMtyCuNQ?style=social&label=Youtube&link=https%3A%2F%2Fyoutube.com%2F%40ndonkoHenri)
+<p>
+
+<a href="https://linktr.ee/ndonkoHenri">
+<img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ndonkohenri">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/ndonkoHenri">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+
+<a href="https://discord.com/users/ndonkoHenri">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="https://youtube.com/@ndonkoHenri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</p>
 
 ---
 
