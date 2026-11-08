@@ -8,7 +8,7 @@
 
 ### 📫 Social Profiles 📫
 
-[![Chat On Discord](https://img.shields.io/badge/--discord?label=Username=the_ethical_boy&logo=Discord&style=social)](https://github.com/ndonkoHenri) 
+[![Chat On Discord](https://img.shields.io/badge/--discord?label=Username=ndonkoHenr&logo=Discord&style=social)](https://github.com/ndonkoHenri) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ndonkohenri) 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ndonkoHenri)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2j9sVx0O7M8CebjMtyCuNQ?style=social&label=Youtube&link=https%3A%2F%2Fyoutube.com%2F%40ndonkoHenri)
