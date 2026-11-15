@@ -54,9 +54,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1282](https://github.com/flet-dev/flet/issues/1282) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. 💪 Opened PR [#7092](https://github.com/flet-dev/flet/pull/7092) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#7091](https://github.com/flet-dev/flet/pull/7091) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 🎉 Merged PR [#1154](https://github.com/ndonkoHenri/pycon-us-flet/pull/1154) in [ndonkoHenri/pycon-us-flet](https://github.com/ndonkoHenri/pycon-us-flet)
-5. 🗣 Commented on [#1154](https://github.com/ndonkoHenri/pycon-us-flet/pull/1154#issuecomment-6886007209) in [ndonkoHenri/pycon-us-flet](https://github.com/ndonkoHenri/pycon-us-flet)
+1. ℹ️ Assigned issue [#6456](https://github.com/flet-dev/flet/issues/6456) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#7093](https://github.com/flet-dev/flet/pull/7093) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Assigned issue [#1282](https://github.com/flet-dev/flet/issues/1282) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#7092](https://github.com/flet-dev/flet/pull/7092) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. 💪 Opened PR [#7091](https://github.com/flet-dev/flet/pull/7091) in [flet-dev/flet](https://github.com/flet-dev/flet)
 <!--END_SECTION:activity-->
