@@ -54,9 +54,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#135](https://github.com/flet-dev/mobile-forge/pull/135) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-2. 💪 Opened PR [#135](https://github.com/flet-dev/mobile-forge/pull/135) in [flet-dev/mobile-forge](https://github.com/flet-dev/mobile-forge)
-3. 💪 Opened PR [#7090](https://github.com/flet-dev/flet/pull/7090) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. 💪 Opened PR [#7089](https://github.com/flet-dev/flet/pull/7089) in [flet-dev/flet](https://github.com/flet-dev/flet)
-5. ℹ️ Assigned issue [#7080](https://github.com/flet-dev/flet/issues/7080) in [flet-dev/flet](https://github.com/flet-dev/flet)
+1. ℹ️ Assigned issue [#1282](https://github.com/flet-dev/flet/issues/1282) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#7092](https://github.com/flet-dev/flet/pull/7092) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. 💪 Opened PR [#7091](https://github.com/flet-dev/flet/pull/7091) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 🎉 Merged PR [#1154](https://github.com/ndonkoHenri/pycon-us-flet/pull/1154) in [ndonkoHenri/pycon-us-flet](https://github.com/ndonkoHenri/pycon-us-flet)
+5. 🗣 Commented on [#1154](https://github.com/ndonkoHenri/pycon-us-flet/pull/1154#issuecomment-6886007209) in [ndonkoHenri/pycon-us-flet](https://github.com/ndonkoHenri/pycon-us-flet)
 <!--END_SECTION:activity-->
