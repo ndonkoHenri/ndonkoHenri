@@ -54,9 +54,9 @@
 ### :zap: Recent GitHub Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7125](https://github.com/flet-dev/flet/pull/7125) in [flet-dev/flet](https://github.com/flet-dev/flet)
-2. ℹ️ Assigned issue [#5934](https://github.com/flet-dev/flet/issues/5934) in [flet-dev/flet](https://github.com/flet-dev/flet)
-3. 💪 Opened PR [#7124](https://github.com/flet-dev/flet/pull/7124) in [flet-dev/flet](https://github.com/flet-dev/flet)
-4. ❗ Opened issue [#61](https://github.com/abandoft/webview_all/issues/61) in [abandoft/webview_all](https://github.com/abandoft/webview_all)
-5. ❗ Opened issue [#60](https://github.com/abandoft/webview_all/issues/60) in [abandoft/webview_all](https://github.com/abandoft/webview_all)
+1. 🗣 Commented on [#5934](https://github.com/flet-dev/flet/issues/5934#issuecomment-7188983621) in [flet-dev/flet](https://github.com/flet-dev/flet)
+2. 💪 Opened PR [#7125](https://github.com/flet-dev/flet/pull/7125) in [flet-dev/flet](https://github.com/flet-dev/flet)
+3. ℹ️ Assigned issue [#5934](https://github.com/flet-dev/flet/issues/5934) in [flet-dev/flet](https://github.com/flet-dev/flet)
+4. 💪 Opened PR [#7124](https://github.com/flet-dev/flet/pull/7124) in [flet-dev/flet](https://github.com/flet-dev/flet)
+5. ❗ Opened issue [#61](https://github.com/abandoft/webview_all/issues/61) in [abandoft/webview_all](https://github.com/abandoft/webview_all)
 <!--END_SECTION:activity-->
